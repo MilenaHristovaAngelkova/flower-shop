@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100px;
+    background-color: rgb(25, 6, 31);
+    color:rgb(216, 130, 238);
+}
+
+span {
+    font-family: 'Fleur De Leah', cursive;
+    font-size: 3rem;    
+}
+
+#logo-left {
+    color:rgb(240, 71, 231);
+    margin-right: 1rem;
+}
+
+#logo-right {
+    color: rgb(176, 83, 243);
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    font-weight: bold;
+}
+
+li {
+    margin: 0 7px;
+    font-size: 1.1rem;
+}
