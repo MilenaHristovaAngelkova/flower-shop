@@ -11,3 +11,7 @@ footer {
     color:rgb(216, 130, 238);
     font-weight: bold;
 }
+
+footer span {
+    margin: 0 0.5rem;
+}

@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Flower Shop Template
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+It is a template for a virtual flower shop. It is currently under construction using the MERN stack. The plan is to have main content accessible by everyone, a cart to hold the current order, required log in to be able to proceed, personal accounts for personal details, and a form to place the order from.
 
 ## Available Scripts
 
@@ -68,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### License
+MIT
